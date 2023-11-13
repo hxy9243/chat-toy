@@ -29,7 +29,7 @@ tiktoken = "^0.3.0"
 beautifulsoup4 = "^4.11.2"
 pandas = "^1.5.3"
 python-dotenv = "^1.0.0"
-redis = "^4.5.2"
+redis = "^5.0.1"
 spacy-langdetect = "^0.1.2"
 
 [tool.poetry.extras]
